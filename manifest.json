@@ -1,7 +1,7 @@
 {
 	"id": "daily-date-links",
 	"name": "Daily Date Links",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minAppVersion": "0.15.0",
 	"description": "Creates a daily note with defined settings when clicking a wikilink with a date structure.",
 	"author": "Marco Laux",
