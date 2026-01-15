@@ -49,7 +49,7 @@ It acts as a bridge between freestyle linking and structured Daily Notes.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/obsidian-daily-date-links.git
+git clone https://gitlab.com/marcaux/obsidian-daily-date-links.git
 cd obsidian-daily-date-links
 npm install
 ```
@@ -58,12 +58,6 @@ Build the plugin:
 
 ```bash
 npm run build
-```
-
-Run in watch mode:
-
-```bash
-npm run dev
 ```
 
 ## License
