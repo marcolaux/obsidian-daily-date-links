@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-daily-date-links",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Obsidian plugin to create daily notes from date-formatted wikilinks.",
 	"main": "main.js",
 	"scripts": {
