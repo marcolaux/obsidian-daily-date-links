@@ -27,13 +27,6 @@ It acts as a bridge between freestyle linking and structured Daily Notes.
 
 ## Installation
 
-### From Community Plugins
-
-1.  Open Obsidian Settings > Community Plugins.
-2.  Turn off "Restricted mode".
-3.  Click "Browse" and search for "Daily Date Links".
-4.  Install and Enable.
-
 ### With BRAT (Beta Reviewers Auto-update Tool)
 
 1.  Install the **BRAT** plugin from Community Plugins.
