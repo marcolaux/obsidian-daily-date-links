@@ -2,6 +2,9 @@
 
 Seamlessly create Daily Notes from internal links in Obsidian.
 
+> [!NOTE]
+> The original repository is hosted on [GitLab](https://gitlab.com/marcaux/obsidian-daily-date-links). The [GitHub repository](https://github.com/marcolaux/obsidian-daily-date-links) is a mirror.
+
 ## What is this?
 
 By default, when you click a wikilink like `[[2026-01-15]]` in Obsidian, it creates a blank note with that name. This plugin intercepts those clicks and, if the link text corresponds to a valid date, creates a **Daily Note** instead.
