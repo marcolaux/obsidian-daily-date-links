@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # usage: ./install-local.sh /path/to/your/vault
-# example: ./install-local.sh "/Users/marco/Documents/My Vault"
+# example: ./install-local.sh "/Users/username/Documents/My Vault"
 
 # Load .env file if it exists
 if [ -f .env ]; then
