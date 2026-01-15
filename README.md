@@ -31,6 +31,14 @@ It acts as a bridge between freestyle linking and structured Daily Notes.
 3.  Click "Browse" and search for "Daily Date Links".
 4.  Install and Enable.
 
+### With BRAT (Beta Reviewers Auto-update Tool)
+
+1.  Install the **BRAT** plugin from Community Plugins.
+2.  Open BRAT settings.
+3.  Click "Add Beta plugin".
+4.  Paste the repository URL: `https://github.com/marcolaux/obsidian-daily-date-links`
+5.  Click "Add Plugin".
+
 ### Manual Installation
 
 1.  Download the latest release from the Releases page.
